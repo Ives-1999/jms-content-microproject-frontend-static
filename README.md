@@ -1,0 +1,1 @@
+# jms-content-microproject-frontend-static
